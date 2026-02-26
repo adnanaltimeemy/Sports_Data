@@ -1,0 +1,201 @@
+Promotion,Wrestler,Opponent,Event,Date,Match_Type,Tickets_Sold,PPV_Sales_USD,Profit_Margin,Wrestler_Age,Country
+AAA,Kenny Omega,Kazuchika Okada,Final Battle,2022-10-28,Tag Team,42242,265601,0.09,23,USA
+AAA,Rey Mysterio,Cody Rhodes,WrestleMania,2023-02-20,Singles,85648,828205,0.4,36,UK
+WWE,Cody Rhodes,Sting,Revolution,2018-03-27,Tag Team,88950,1294376,0.23,24,UK
+AAA,Chris Jericho,Sabu,Final Battle,2022-06-03,Triple Threat,26745,776773,0.12,41,UK
+WWE,Kazuchika Okada,Kenny Omega,Revolution,2021-10-20,Singles,47271,1677067,0.29,27,Canada
+WWE,Sting,Kazuchika Okada,Clash of Champions,2018-04-11,Singles,2722,1691802,0.09,39,Canada
+NWA,Sabu,Chris Jericho,Final Battle,2020-03-26,Triple Threat,66827,1333585,0.19,32,USA
+WWE,Kazuchika Okada,John Cena,Revolution,2020-01-21,Fatal 4-Way,41001,785911,0.35,53,Mexico
+ECW,Rey Mysterio,Sting,WrestleMania,2021-01-04,Fatal 4-Way,16533,1749175,0.16,37,Canada
+ROH,Kenny Omega,Kazuchika Okada,All Out,2019-01-03,Triple Threat,31723,1592839,0.22,27,USA
+ROH,Cody Rhodes,Rey Mysterio,Clash of Champions,2021-10-16,Tag Team,59317,126668,0.09,55,Japan
+WCW,Chris Jericho,Sting,Final Battle,2019-01-27,Singles,45807,1007244,0.48,39,Canada
+ROH,Cody Rhodes,John Cena,Bound for Glory,2018-03-01,Fatal 4-Way,79599,104883,0.25,43,Japan
+AEW,Sting,John Cena,Clash of Champions,2019-07-03,Singles,68481,198308,0.33,49,USA
+ECW,John Cena,Kazuchika Okada,All Out,2019-08-05,Triple Threat,55986,867340,0.44,29,USA
+WWE,Kenny Omega,Sting,Bound for Glory,2020-09-04,Singles,26135,1216334,0.17,41,Japan
+JCW,Sting,Chris Jericho,WrestleMania,2019-08-31,Fatal 4-Way,83277,747382,0.32,23,UK
+ROH,John Cena,Sabu,WrestleMania,2018-04-03,Fatal 4-Way,21486,1804571,0.48,33,UK
+NWA,Chris Jericho,Kenny Omega,Bound for Glory,2020-08-08,Triple Threat,5440,81676,0.28,29,USA
+ROH,Chris Jericho,Cody Rhodes,WrestleMania,2022-05-15,Singles,4389,462172,0.29,47,UK
+WCW,Rey Mysterio,Cody Rhodes,Final Battle,2022-11-03,Tag Team,89873,1522967,0.38,39,Mexico
+JCW,Cody Rhodes,Kazuchika Okada,Final Battle,2021-07-28,Triple Threat,53574,703748,0.44,22,Japan
+ROH,John Cena,Kazuchika Okada,Revolution,2022-06-27,Triple Threat,35638,1341378,0.09,38,Canada
+NWA,Chris Jericho,Rey Mysterio,Revolution,2020-08-26,Triple Threat,78702,1616775,0.38,35,Mexico
+WCW,John Cena,Cody Rhodes,Bound for Glory,2021-02-09,Tag Team,15423,90024,0.31,45,UK
+AAA,Cody Rhodes,Sabu,Summer Slam,2018-02-05,Singles,59092,1897635,0.07,54,Japan
+WWE,Chris Jericho,John Cena,All Out,2021-10-16,Fatal 4-Way,29186,438370,0.44,29,USA
+JCW,Chris Jericho,Kazuchika Okada,All Out,2022-02-28,Triple Threat,3686,1666100,0.1,49,UK
+AAA,Chris Jericho,Rey Mysterio,Revolution,2022-01-03,Singles,56978,1538196,0.3,49,USA
+WWE,John Cena,Chris Jericho,All Out,2018-12-29,Singles,41266,1880226,0.27,29,Mexico
+WCW,Kazuchika Okada,Kenny Omega,Final Battle,2019-08-24,Tag Team,11777,1417797,0.41,54,UK
+JCW,Sabu,Cody Rhodes,All Out,2020-03-05,Fatal 4-Way,22428,102712,0.35,36,Japan
+AAA,Cody Rhodes,Sabu,Bound for Glory,2022-11-11,Tag Team,45954,199582,0.24,38,Japan
+ECW,John Cena,Kenny Omega,All Out,2019-05-06,Fatal 4-Way,59374,421387,0.22,49,Mexico
+ECW,Kazuchika Okada,Rey Mysterio,Revolution,2022-10-23,Singles,54173,1709680,0.32,27,Canada
+WCW,Sabu,John Cena,All Out,2018-07-20,Tag Team,87260,1927620,0.27,31,UK
+ROH,Cody Rhodes,Kenny Omega,WrestleMania,2020-01-17,Fatal 4-Way,11169,757177,0.26,42,Japan
+JCW,John Cena,Rey Mysterio,All Out,2022-06-21,Tag Team,82640,533927,0.15,48,Canada
+JCW,Sting,John Cena,Summer Slam,2019-06-13,Triple Threat,42952,716739,0.41,52,UK
+AAA,Chris Jericho,Kenny Omega,Clash of Champions,2022-02-03,Triple Threat,45728,1603308,0.47,33,Canada
+NWA,Sting,Cody Rhodes,Final Battle,2021-08-02,Tag Team,75260,1688692,0.39,49,USA
+JCW,John Cena,Kazuchika Okada,Revolution,2022-11-30,Triple Threat,53210,1416900,0.06,38,Canada
+NWA,John Cena,Chris Jericho,WrestleMania,2019-07-02,Tag Team,18004,363541,0.09,38,Mexico
+NWA,Sabu,John Cena,Bound for Glory,2021-09-11,Singles,39892,1906289,0.15,41,UK
+NWA,John Cena,Chris Jericho,All Out,2020-01-26,Singles,20970,1948976,0.47,44,UK
+WWE,Kenny Omega,Kazuchika Okada,Final Battle,2021-08-08,Singles,9825,1482429,0.42,42,UK
+WCW,Rey Mysterio,Sting,Bound for Glory,2019-11-26,Tag Team,42627,912062,0.39,30,UK
+ROH,Sting,Sabu,Revolution,2021-05-15,Triple Threat,77507,859049,0.3,38,UK
+NWA,Sabu,Rey Mysterio,All Out,2021-06-18,Singles,66181,694815,0.44,35,Japan
+JCW,Sting,John Cena,Summer Slam,2021-10-20,Fatal 4-Way,17070,128203,0.43,27,USA
+AAA,Kazuchika Okada,Sabu,WrestleMania,2019-05-18,Singles,40455,466508,0.09,47,Japan
+AEW,Kenny Omega,Kazuchika Okada,All Out,2019-09-03,Tag Team,7330,1892730,0.27,26,Japan
+AEW,Kazuchika Okada,Cody Rhodes,Clash of Champions,2018-01-28,Singles,3693,1270794,0.41,24,Japan
+ROH,Kenny Omega,Sting,Clash of Champions,2018-06-13,Triple Threat,85724,453051,0.48,45,Mexico
+ECW,Chris Jericho,Kazuchika Okada,Clash of Champions,2020-11-14,Triple Threat,52414,259186,0.27,55,Japan
+ECW,John Cena,Kazuchika Okada,All Out,2018-10-17,Fatal 4-Way,15096,1601098,0.3,33,UK
+ECW,Cody Rhodes,Chris Jericho,All Out,2022-06-05,Tag Team,19122,1781595,0.4,33,UK
+NWA,Cody Rhodes,Chris Jericho,Revolution,2021-12-31,Triple Threat,8712,559262,0.3,47,USA
+AEW,Rey Mysterio,Chris Jericho,WrestleMania,2022-04-01,Triple Threat,32518,394027,0.43,44,Canada
+AAA,Sting,Cody Rhodes,WrestleMania,2022-07-27,Fatal 4-Way,58449,533069,0.31,55,Mexico
+AAA,Sting,Kazuchika Okada,Final Battle,2021-12-27,Tag Team,20338,692244,0.44,36,Canada
+WCW,Chris Jericho,Rey Mysterio,Summer Slam,2020-03-16,Triple Threat,28484,1538573,0.12,31,Japan
+WWE,Cody Rhodes,Kazuchika Okada,Revolution,2019-10-31,Fatal 4-Way,11587,608045,0.48,54,UK
+NWA,Cody Rhodes,Sting,Final Battle,2020-12-28,Triple Threat,45352,496595,0.18,53,UK
+ROH,Kenny Omega,Chris Jericho,Summer Slam,2022-05-20,Triple Threat,76929,63333,0.09,26,USA
+ECW,Kazuchika Okada,John Cena,Revolution,2022-10-09,Triple Threat,4074,159651,0.27,29,UK
+JCW,Rey Mysterio,Sabu,All Out,2019-08-23,Singles,82693,1546957,0.43,48,Japan
+ROH,Cody Rhodes,Rey Mysterio,Revolution,2021-02-21,Fatal 4-Way,45324,764029,0.34,22,Canada
+AAA,John Cena,Sabu,Revolution,2021-07-31,Fatal 4-Way,71850,1526848,0.42,22,USA
+AAA,Chris Jericho,Kazuchika Okada,Final Battle,2022-04-05,Singles,82056,1644480,0.42,55,USA
+WCW,Kenny Omega,Kazuchika Okada,All Out,2023-05-16,Tag Team,25803,1984601,0.35,23,Mexico
+AAA,Chris Jericho,Sabu,WrestleMania,2018-01-17,Singles,17957,1335035,0.2,37,USA
+WCW,Kazuchika Okada,Kenny Omega,Clash of Champions,2020-03-10,Tag Team,81696,1603570,0.12,25,Japan
+AAA,Rey Mysterio,Chris Jericho,WrestleMania,2018-11-17,Triple Threat,80719,1374969,0.25,53,Japan
+WWE,Sabu,Sting,All Out,2018-07-07,Tag Team,38404,765547,0.31,35,Canada
+WWE,Cody Rhodes,Kazuchika Okada,WrestleMania,2019-11-02,Triple Threat,28474,522644,0.42,23,Canada
+AEW,Kenny Omega,Cody Rhodes,Bound for Glory,2021-12-19,Tag Team,80778,1758532,0.2,25,Mexico
+NWA,Sting,Sabu,Summer Slam,2021-05-26,Tag Team,32539,1001492,0.15,43,UK
+ECW,John Cena,Rey Mysterio,Clash of Champions,2018-03-15,Triple Threat,52778,127225,0.49,27,USA
+NWA,Cody Rhodes,John Cena,Summer Slam,2021-02-13,Triple Threat,19641,817606,0.12,28,UK
+AAA,Sabu,Kazuchika Okada,WrestleMania,2020-03-24,Triple Threat,26449,53417,0.4,44,USA
+ECW,Chris Jericho,Kazuchika Okada,Final Battle,2019-08-29,Triple Threat,67753,1675091,0.13,22,Canada
+WWE,Rey Mysterio,Kazuchika Okada,Revolution,2022-10-20,Triple Threat,15234,1506144,0.16,32,Japan
+AAA,Sabu,John Cena,Final Battle,2022-11-27,Triple Threat,72810,705820,0.4,45,Canada
+AAA,Cody Rhodes,Rey Mysterio,Clash of Champions,2021-08-26,Tag Team,9327,1791823,0.25,34,Mexico
+WCW,Kazuchika Okada,Kenny Omega,Clash of Champions,2018-06-12,Singles,29617,1201870,0.16,46,Mexico
+WCW,John Cena,Chris Jericho,Bound for Glory,2020-12-19,Triple Threat,31455,1032621,0.39,55,Mexico
+ECW,John Cena,Rey Mysterio,WrestleMania,2022-06-05,Triple Threat,13037,736924,0.38,51,Canada
+ECW,Sting,Rey Mysterio,Final Battle,2023-02-10,Triple Threat,6613,1751545,0.34,32,Mexico
+WCW,Rey Mysterio,Chris Jericho,Final Battle,2018-08-15,Fatal 4-Way,3216,1193727,0.19,52,UK
+ECW,Sabu,Cody Rhodes,All Out,2020-03-19,Triple Threat,61529,1843635,0.19,39,Mexico
+JCW,Kazuchika Okada,Sabu,All Out,2021-11-28,Tag Team,70651,300430,0.43,54,Japan
+WCW,Sting,Kazuchika Okada,WrestleMania,2019-01-07,Triple Threat,7161,1308674,0.14,25,Canada
+WCW,Sabu,Sting,Revolution,2022-04-30,Fatal 4-Way,88721,1760483,0.27,34,USA
+JCW,Sabu,Rey Mysterio,All Out,2021-06-16,Fatal 4-Way,72986,1526467,0.35,52,Canada
+ROH,Cody Rhodes,Sabu,Summer Slam,2019-11-13,Singles,60640,948366,0.17,25,Canada
+WCW,John Cena,Cody Rhodes,Revolution,2018-08-03,Singles,27898,1877926,0.39,29,Canada
+ECW,John Cena,Rey Mysterio,Clash of Champions,2023-03-16,Triple Threat,58177,219738,0.16,43,Mexico
+NWA,Rey Mysterio,Kenny Omega,Revolution,2018-05-07,Singles,21280,1397042,0.34,50,Canada
+AAA,John Cena,Kazuchika Okada,All Out,2019-12-26,Fatal 4-Way,58844,1071703,0.35,33,Canada
+WCW,Kazuchika Okada,Sabu,Revolution,2020-04-21,Tag Team,63306,1228293,0.1,42,Japan
+AAA,John Cena,Kazuchika Okada,Revolution,2018-10-17,Fatal 4-Way,62085,1969158,0.33,52,UK
+ROH,John Cena,Kenny Omega,Bound for Glory,2020-02-14,Tag Team,66416,1344840,0.35,32,Mexico
+AEW,Chris Jericho,Kenny Omega,WrestleMania,2021-04-28,Triple Threat,55771,120425,0.32,42,Japan
+ROH,Cody Rhodes,Rey Mysterio,Final Battle,2022-10-30,Fatal 4-Way,64917,1521146,0.38,54,Japan
+AAA,Chris Jericho,Sting,All Out,2022-01-16,Tag Team,59335,1621635,0.07,28,Mexico
+AEW,Kazuchika Okada,John Cena,Revolution,2020-08-22,Singles,68034,987307,0.33,40,Canada
+ECW,Rey Mysterio,Cody Rhodes,Summer Slam,2023-03-31,Singles,59957,512973,0.17,31,Mexico
+NWA,Sting,Chris Jericho,All Out,2021-05-24,Triple Threat,22871,1057485,0.26,47,USA
+ECW,Chris Jericho,Sting,Clash of Champions,2021-07-31,Triple Threat,59743,437326,0.13,33,USA
+ROH,John Cena,Kazuchika Okada,Clash of Champions,2022-02-16,Tag Team,31925,230854,0.08,45,USA
+ROH,Sabu,Rey Mysterio,Summer Slam,2018-12-13,Singles,21488,535591,0.22,35,Japan
+WCW,Sabu,Rey Mysterio,Clash of Champions,2022-09-16,Triple Threat,12950,1208552,0.15,54,Mexico
+AEW,Chris Jericho,Kenny Omega,All Out,2022-03-07,Singles,54223,1884017,0.22,33,Japan
+AEW,Kenny Omega,Rey Mysterio,Revolution,2023-01-01,Triple Threat,30755,1294074,0.1,54,USA
+AEW,Sting,Kazuchika Okada,Revolution,2021-08-02,Fatal 4-Way,80041,1309431,0.18,42,USA
+AEW,Rey Mysterio,Sabu,Clash of Champions,2022-04-17,Fatal 4-Way,57404,1864026,0.2,34,Japan
+WWE,Chris Jericho,Rey Mysterio,Bound for Glory,2019-08-30,Singles,89200,1804658,0.39,27,Canada
+ROH,Cody Rhodes,Kenny Omega,Clash of Champions,2021-08-15,Singles,39358,1001005,0.07,34,Japan
+JCW,Sabu,John Cena,WrestleMania,2021-05-29,Singles,84185,706402,0.32,48,Canada
+WWE,Kazuchika Okada,Chris Jericho,Bound for Glory,2018-04-19,Triple Threat,52904,660348,0.23,27,Japan
+WWE,Kenny Omega,Chris Jericho,Revolution,2019-11-16,Triple Threat,65900,1877116,0.4,24,Canada
+AAA,Kazuchika Okada,Rey Mysterio,Summer Slam,2021-07-24,Fatal 4-Way,69955,1086793,0.15,39,USA
+WWE,Sting,Chris Jericho,Final Battle,2023-01-07,Tag Team,3669,1771978,0.45,37,Mexico
+WCW,Kenny Omega,John Cena,Revolution,2023-04-27,Singles,61236,905207,0.44,46,Japan
+JCW,Chris Jericho,Sting,Final Battle,2022-07-26,Triple Threat,76794,533202,0.17,49,Mexico
+AAA,Sting,Kenny Omega,WrestleMania,2019-08-03,Singles,61364,1449355,0.35,29,UK
+ROH,Kenny Omega,Cody Rhodes,Bound for Glory,2018-08-14,Fatal 4-Way,69214,1251842,0.22,39,Japan
+JCW,Sabu,Rey Mysterio,Revolution,2023-02-18,Triple Threat,67000,56484,0.24,50,Canada
+ROH,Rey Mysterio,Sabu,All Out,2023-01-25,Tag Team,32616,315500,0.34,31,UK
+WCW,John Cena,Chris Jericho,Summer Slam,2021-04-07,Singles,40984,913052,0.11,30,USA
+ROH,Kenny Omega,Rey Mysterio,All Out,2018-03-16,Singles,29311,536343,0.41,40,Canada
+ECW,Sabu,Kazuchika Okada,WrestleMania,2023-03-09,Singles,27645,1765195,0.39,35,Mexico
+ECW,Sabu,Chris Jericho,Summer Slam,2022-01-30,Fatal 4-Way,21384,796631,0.05,47,Canada
+NWA,Cody Rhodes,Rey Mysterio,Summer Slam,2019-10-01,Tag Team,85234,165748,0.07,22,Japan
+AAA,Rey Mysterio,Cody Rhodes,WrestleMania,2019-10-04,Fatal 4-Way,48979,1180266,0.1,25,Canada
+WCW,Sabu,Kazuchika Okada,Bound for Glory,2023-06-04,Tag Team,61785,408108,0.12,22,Mexico
+JCW,Sabu,Chris Jericho,Clash of Champions,2018-08-26,Tag Team,63414,710116,0.41,43,USA
+AEW,Sting,Kenny Omega,Summer Slam,2021-08-14,Fatal 4-Way,71324,1264175,0.33,23,Mexico
+JCW,Kazuchika Okada,Sabu,WrestleMania,2018-04-24,Singles,86043,706306,0.07,43,USA
+ECW,John Cena,Kenny Omega,Summer Slam,2022-06-02,Triple Threat,66912,516252,0.38,49,Japan
+ECW,Sabu,Sting,Revolution,2020-04-08,Fatal 4-Way,8656,1065757,0.27,52,Japan
+AEW,Cody Rhodes,Kazuchika Okada,Revolution,2018-05-10,Tag Team,66566,508348,0.47,45,Canada
+JCW,Chris Jericho,Sting,Summer Slam,2019-08-22,Singles,53485,540658,0.22,34,Mexico
+JCW,Kenny Omega,Rey Mysterio,Summer Slam,2023-06-16,Singles,20943,1162323,0.48,53,USA
+WCW,Sabu,Kazuchika Okada,WrestleMania,2022-05-26,Fatal 4-Way,41109,1486244,0.38,44,Japan
+NWA,Chris Jericho,Cody Rhodes,WrestleMania,2021-09-27,Singles,17802,1508631,0.25,30,USA
+NWA,Sabu,Sting,Bound for Glory,2019-04-20,Tag Team,43875,974284,0.45,26,USA
+NWA,Rey Mysterio,Kazuchika Okada,Bound for Glory,2018-04-28,Fatal 4-Way,62547,208841,0.14,50,Canada
+AEW,Cody Rhodes,Sabu,WrestleMania,2022-05-15,Tag Team,80027,1937109,0.28,25,Mexico
+JCW,Chris Jericho,Cody Rhodes,Clash of Champions,2018-11-13,Tag Team,89157,1346041,0.47,29,Mexico
+NWA,Kazuchika Okada,Chris Jericho,All Out,2019-05-10,Tag Team,76609,737983,0.32,33,USA
+WCW,Kazuchika Okada,Sabu,WrestleMania,2022-12-02,Triple Threat,87078,1576178,0.43,48,UK
+NWA,Rey Mysterio,Sabu,All Out,2023-06-21,Tag Team,11714,607238,0.28,33,Mexico
+WCW,Kenny Omega,Cody Rhodes,Clash of Champions,2019-05-26,Fatal 4-Way,33405,718232,0.12,51,Mexico
+WCW,Cody Rhodes,Kenny Omega,All Out,2021-12-05,Tag Team,25880,892014,0.21,31,Mexico
+AEW,Kazuchika Okada,Rey Mysterio,Final Battle,2021-01-03,Singles,55379,391544,0.41,22,Canada
+ROH,Sabu,Kenny Omega,Final Battle,2020-03-16,Singles,35393,1894237,0.07,50,Japan
+ECW,Cody Rhodes,Kazuchika Okada,Bound for Glory,2020-02-08,Fatal 4-Way,46804,54082,0.37,54,UK
+ECW,John Cena,Rey Mysterio,Revolution,2019-09-23,Tag Team,70200,1920848,0.15,31,UK
+WCW,Chris Jericho,John Cena,Clash of Champions,2022-08-06,Singles,4086,953972,0.24,28,UK
+AAA,Sabu,Chris Jericho,Clash of Champions,2022-05-05,Singles,33744,193908,0.19,26,Canada
+AAA,Cody Rhodes,Rey Mysterio,Clash of Champions,2021-10-20,Fatal 4-Way,34424,1093059,0.34,36,Canada
+NWA,Sabu,Kazuchika Okada,Bound for Glory,2022-03-18,Tag Team,55270,1033198,0.5,44,USA
+ECW,Chris Jericho,Rey Mysterio,Summer Slam,2021-03-14,Singles,33341,1664178,0.31,55,UK
+ROH,John Cena,Kazuchika Okada,Revolution,2018-08-04,Triple Threat,65837,622911,0.36,35,Canada
+ECW,Chris Jericho,Kenny Omega,Final Battle,2019-03-10,Singles,61494,880646,0.41,53,USA
+ROH,Sabu,Kazuchika Okada,Revolution,2019-12-05,Singles,59920,1472706,0.34,53,Canada
+WCW,John Cena,Chris Jericho,Final Battle,2022-01-25,Triple Threat,71286,1476541,0.14,35,USA
+WCW,Kenny Omega,Sabu,Final Battle,2019-04-21,Fatal 4-Way,46557,1212659,0.21,46,UK
+WWE,Chris Jericho,Sabu,Revolution,2022-08-14,Singles,82751,215619,0.45,36,Japan
+AAA,Kenny Omega,Rey Mysterio,Final Battle,2018-10-01,Tag Team,12804,1546848,0.18,26,USA
+NWA,Sting,Chris Jericho,Final Battle,2023-01-24,Tag Team,83287,1767996,0.36,55,Japan
+NWA,Kenny Omega,Kazuchika Okada,Final Battle,2019-02-23,Triple Threat,41120,1928419,0.26,50,UK
+WCW,Sabu,Kenny Omega,WrestleMania,2022-10-28,Tag Team,41140,1811963,0.29,23,USA
+NWA,Sabu,John Cena,Summer Slam,2019-03-26,Fatal 4-Way,56371,1604367,0.46,52,UK
+AEW,Kazuchika Okada,Sabu,Clash of Champions,2020-07-20,Singles,59786,1402169,0.47,25,Mexico
+JCW,Kenny Omega,Cody Rhodes,Bound for Glory,2019-10-16,Singles,67764,1103373,0.15,26,UK
+WWE,Cody Rhodes,John Cena,WrestleMania,2019-06-09,Singles,14161,1323488,0.16,50,Mexico
+ECW,Rey Mysterio,Chris Jericho,Bound for Glory,2018-05-24,Tag Team,43219,1187284,0.29,26,Canada
+JCW,Sabu,Rey Mysterio,WrestleMania,2020-11-28,Tag Team,49458,512418,0.24,51,USA
+AAA,Rey Mysterio,John Cena,Clash of Champions,2021-05-30,Tag Team,55304,1048167,0.24,25,USA
+ECW,Kazuchika Okada,Rey Mysterio,WrestleMania,2018-08-20,Fatal 4-Way,56804,1494825,0.09,29,Japan
+NWA,Kazuchika Okada,Sabu,Bound for Glory,2018-04-28,Tag Team,5474,1486520,0.18,42,Mexico
+ECW,Kenny Omega,Kazuchika Okada,All Out,2022-01-26,Singles,21293,242835,0.1,28,Canada
+AAA,Sting,Kazuchika Okada,Clash of Champions,2023-03-22,Tag Team,69798,697819,0.23,30,Mexico
+AAA,Cody Rhodes,Sabu,Summer Slam,2018-09-03,Singles,8390,1274051,0.32,53,Mexico
+NWA,John Cena,Sabu,Revolution,2018-03-31,Triple Threat,46346,1354560,0.39,52,UK
+WCW,Kazuchika Okada,Kenny Omega,Bound for Glory,2019-06-12,Triple Threat,18095,789677,0.36,38,USA
+AAA,Chris Jericho,John Cena,Bound for Glory,2018-08-03,Triple Threat,24262,1213633,0.24,45,USA
+ECW,Kenny Omega,Cody Rhodes,All Out,2023-02-22,Singles,85298,1429955,0.26,53,Japan
+ROH,Kazuchika Okada,Sting,All Out,2022-11-25,Singles,7342,771486,0.28,26,Mexico
+JCW,Cody Rhodes,Kazuchika Okada,WrestleMania,2021-12-09,Singles,29810,1672205,0.49,34,USA
+AAA,Sting,John Cena,WrestleMania,2020-07-19,Singles,17078,284232,0.07,54,UK
+ECW,Rey Mysterio,Cody Rhodes,All Out,2020-05-09,Tag Team,77989,1023562,0.46,50,UK
+WCW,Rey Mysterio,Sabu,Clash of Champions,2022-12-07,Fatal 4-Way,8040,1544866,0.08,24,USA
+WWE,Sabu,John Cena,Final Battle,2023-03-29,Singles,16048,406102,0.4,47,USA
+ROH,Cody Rhodes,Sabu,Revolution,2022-06-27,Fatal 4-Way,32855,519630,0.06,33,Japan
+WCW,Sabu,John Cena,Clash of Champions,2019-04-09,Fatal 4-Way,76779,682419,0.4,23,USA
+ROH,Chris Jericho,Rey Mysterio,Revolution,2022-11-04,Singles,73920,475684,0.11,22,Mexico
